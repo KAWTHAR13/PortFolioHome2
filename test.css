@@ -1,0 +1,19 @@
+section { 
+    padding: 10%; 
+    margin: 0 auto;
+    background-image: url("/images/text-bar-strip.png");
+    background-repeat: repeat-x;
+    height: 393px;
+    }
+
+    .scroller-arrow 
+    {
+     background-image: url("/images/down-arrow.png");
+     cursor: pointer;
+     display: block;
+     height: 61px;
+     margin: 0 auto;
+     width: 61px;
+     position:fixed;
+     bottom:-11px;
+     }
